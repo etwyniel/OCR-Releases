@@ -1,4 +1,4 @@
-# OCR-O-TRON-68K
+## OCR-O-TRON-68K : Documentation
 
-## This is where all our documentation will be ...
-*If there ever is any*
+There is no documentation yet, but there will be soon.
+Stay tuned for more !
